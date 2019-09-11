@@ -8,3 +8,6 @@ Pera
 Chienji
 Ibe
 Zuzzu
+
+Descrizione:
+Gruppo per giocare al videogame Halo Reach
